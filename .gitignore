@@ -3,3 +3,4 @@
 *.pub
 travis
 credentials.json
+google_compute_engine
